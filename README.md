@@ -1,3 +1,19 @@
+# Personal Notes App
+Submission Dicoding Aplikasi Web dengan React
+### Live Preview:
+https://dicoding-submission-beginner-front-end-web.netlify.app/
+### Screenshots:
+<p align="center">
+  <img src="https://github.com/Vidi005/Personal-Notes-App/blob/main/Screenshots/Screenshot_1.png" width="100%"> 
+  <img src="https://github.com/Vidi005/Personal-Notes-App/blob/main/Screenshots/Screenshot_2.png" width="100%">
+  <img src="https://github.com/Vidi005/Personal-Notes-App/blob/main/Screenshots/Screenshot_3.png" width="100%"> 
+  <img src="https://github.com/Vidi005/Personal-Notes-App/blob/main/Screenshots/Screenshot_4.png" width="100%">
+  <img src="https://github.com/Vidi005/Personal-Notes-App/blob/main/Screenshots/Screenshot_5.png" width="100%"> 
+  <img src="https://github.com/Vidi005/Personal-Notes-App/blob/main/Screenshots/Screenshot_6.png" width="240" height="auto">
+  <img src="https://github.com/Vidi005/Personal-Notes-App/blob/main/Screenshots/Screenshot_7.png" width="600" height="auto">
+</p>
+<br>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
