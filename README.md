@@ -10,7 +10,7 @@ https://dicoding-submission-web-react-app.netlify.app/
   <img src="https://github.com/Vidi005/Personal-Notes-App/blob/main/Screenshots/Screenshot_4.png" width="100%">
   <img src="https://github.com/Vidi005/Personal-Notes-App/blob/main/Screenshots/Screenshot_5.png" width="100%"> 
   <img src="https://github.com/Vidi005/Personal-Notes-App/blob/main/Screenshots/Screenshot_6.png" width="240" height="auto">
-  <img src="https://github.com/Vidi005/Personal-Notes-App/blob/main/Screenshots/Screenshot_7.png" width="600" height="auto">
+  <img src="https://github.com/Vidi005/Personal-Notes-App/blob/main/Screenshots/Screenshot_7.png" width="512" height="auto">
 </p>
 <br>
 
