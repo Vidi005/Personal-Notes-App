@@ -1,7 +1,7 @@
 # Personal Notes App
 Submission Dicoding Aplikasi Web dengan React
 ### Live Preview:
-https://dicoding-submission-beginner-front-end-web.netlify.app/
+https://dicoding-submission-web-react-app.netlify.app/
 ### Screenshots:
 <p align="center">
   <img src="https://github.com/Vidi005/Personal-Notes-App/blob/main/Screenshots/Screenshot_1.png" width="100%"> 
